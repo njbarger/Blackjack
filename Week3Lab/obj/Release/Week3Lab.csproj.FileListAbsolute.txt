@@ -1,0 +1,10 @@
+D:\School\Programming 2\Labs\Week34Lab\Week3Lab\bin\Release\Week3Lab.exe.config
+D:\School\Programming 2\Labs\Week34Lab\Week3Lab\bin\Release\Week3Lab.exe
+D:\School\Programming 2\Labs\Week34Lab\Week3Lab\bin\Release\Week3Lab.pdb
+D:\School\Programming 2\Labs\Week34Lab\Week3Lab\bin\Release\Lab3Library.dll
+D:\School\Programming 2\Labs\Week34Lab\Week3Lab\bin\Release\Lab3Library.pdb
+D:\School\Programming 2\Labs\Week34Lab\Week3Lab\obj\Release\Week3Lab.csproj.AssemblyReference.cache
+D:\School\Programming 2\Labs\Week34Lab\Week3Lab\obj\Release\Week3Lab.csproj.CoreCompileInputs.cache
+D:\School\Programming 2\Labs\Week34Lab\Week3Lab\obj\Release\Week3Lab.csproj.CopyComplete
+D:\School\Programming 2\Labs\Week34Lab\Week3Lab\obj\Release\Week3Lab.exe
+D:\School\Programming 2\Labs\Week34Lab\Week3Lab\obj\Release\Week3Lab.pdb

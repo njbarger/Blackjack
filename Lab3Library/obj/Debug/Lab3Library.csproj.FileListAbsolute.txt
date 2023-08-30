@@ -1,0 +1,12 @@
+D:\School\Programming 2\Labs\Week3Lab\Lab3Library\bin\Debug\Lab3Library.dll
+D:\School\Programming 2\Labs\Week3Lab\Lab3Library\bin\Debug\Lab3Library.pdb
+D:\School\Programming 2\Labs\Week3Lab\Lab3Library\obj\Debug\Lab3Library.csproj.AssemblyReference.cache
+D:\School\Programming 2\Labs\Week3Lab\Lab3Library\obj\Debug\Lab3Library.csproj.CoreCompileInputs.cache
+D:\School\Programming 2\Labs\Week3Lab\Lab3Library\obj\Debug\Lab3Library.dll
+D:\School\Programming 2\Labs\Week3Lab\Lab3Library\obj\Debug\Lab3Library.pdb
+D:\School\Programming 2\Labs\Week34Lab\Lab3Library\bin\Debug\Lab3Library.dll
+D:\School\Programming 2\Labs\Week34Lab\Lab3Library\bin\Debug\Lab3Library.pdb
+D:\School\Programming 2\Labs\Week34Lab\Lab3Library\obj\Debug\Lab3Library.csproj.AssemblyReference.cache
+D:\School\Programming 2\Labs\Week34Lab\Lab3Library\obj\Debug\Lab3Library.csproj.CoreCompileInputs.cache
+D:\School\Programming 2\Labs\Week34Lab\Lab3Library\obj\Debug\Lab3Library.dll
+D:\School\Programming 2\Labs\Week34Lab\Lab3Library\obj\Debug\Lab3Library.pdb
